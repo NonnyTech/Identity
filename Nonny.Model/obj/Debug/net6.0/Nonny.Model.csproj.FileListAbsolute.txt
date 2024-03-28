@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\bin\Debug\net6.0\Nonny.Model.deps.json
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\bin\Debug\net6.0\Nonny.Model.dll
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\bin\Debug\net6.0\Nonny.Model.pdb
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.dll
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\refint\Nonny.Model.dll
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\Nonny.Model.pdb
+C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Model\obj\Debug\net6.0\ref\Nonny.Model.dll
