@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Nonny.DataAccess.Data;
+using Nonny.Model;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,37 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer
 (builder.Configuration.GetConnectionString("MyConnection")));
+
+
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+{
+    var allowed = options.User.AllowedUserNameCharacters
+      + "/-@.";
+    options.User.AllowedUserNameCharacters = allowed;
+    options.Password.RequiredLength = 3;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireUppercase = false;
+    options.Password.RequiredUniqueChars = 0;
+    options.Password.RequireDigit = false;
+    options.Password.RequireNonAlphanumeric = false;
+}).AddEntityFrameworkStores<ApplicationDbContext>();
+
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(3);
+    options.Cookie.IsEssential = true;
+
+});
+builder.Services.ConfigureApplicationCookie(options =>
+          {
+              // Cookie settings
+              options.Cookie.HttpOnly = true;
+              options.ExpireTimeSpan = TimeSpan.FromDays(150);
+              options.LoginPath = "/Account/Login";
+              options.LogoutPath = "/Account/Logout";
+              options.AccessDeniedPath = new PathString("/Administration/AccessDenied");
+              options.SlidingExpiration = true;
+          });
 
 var app = builder.Build();
 
@@ -22,7 +55,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

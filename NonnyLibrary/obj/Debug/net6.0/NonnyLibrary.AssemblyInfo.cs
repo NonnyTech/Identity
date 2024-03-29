@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NonnyLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69107fe97e792632c357501603111b836f045598")]
 [assembly: System.Reflection.AssemblyProductAttribute("NonnyLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NonnyLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

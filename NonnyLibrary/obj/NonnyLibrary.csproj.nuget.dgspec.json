@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\NonnyLibrary\\NonnyLibrary.csproj": {}
+    "C:\\MyProject\\NonnyLibrary\\Identity\\NonnyLibrary\\NonnyLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\Nonny.DataAccess.csproj": {
+    "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\Nonny.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\Nonny.DataAccess.csproj",
+        "projectUniqueName": "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\Nonny.DataAccess.csproj",
         "projectName": "Nonny.DataAccess",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\Nonny.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\obj\\",
+        "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\Nonny.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Anthony Ikemefuna\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anthony Ikemefuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,17 +28,18 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2": {},
+          "https://pkgs.dev.azure.com/devnimblebyte/_packaging/devnimblebyte/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj"
+              "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj": {
+                "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj"
+              "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj": {
+                "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj"
               }
             }
           }
@@ -87,24 +89,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj": {
+    "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj",
+        "projectUniqueName": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj",
         "projectName": "Nonny.Model",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\obj\\",
+        "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj",
+        "packagesPath": "C:\\Users\\Anthony Ikemefuna\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anthony Ikemefuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,7 +117,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2": {},
+          "https://pkgs.dev.azure.com/devnimblebyte/_packaging/devnimblebyte/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -131,6 +135,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -147,24 +157,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj": {
+    "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj",
+        "projectUniqueName": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj",
         "projectName": "Nonny.Utility",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\obj\\",
+        "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj",
+        "packagesPath": "C:\\Users\\Anthony Ikemefuna\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anthony Ikemefuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -174,7 +185,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2": {},
+          "https://pkgs.dev.azure.com/devnimblebyte/_packaging/devnimblebyte/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -213,24 +225,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\NonnyLibrary\\NonnyLibrary.csproj": {
+    "C:\\MyProject\\NonnyLibrary\\Identity\\NonnyLibrary\\NonnyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\NonnyLibrary\\NonnyLibrary.csproj",
+        "projectUniqueName": "C:\\MyProject\\NonnyLibrary\\Identity\\NonnyLibrary\\NonnyLibrary.csproj",
         "projectName": "NonnyLibrary",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\NonnyLibrary\\NonnyLibrary.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\NonnyLibrary\\obj\\",
+        "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\NonnyLibrary\\NonnyLibrary.csproj",
+        "packagesPath": "C:\\Users\\Anthony Ikemefuna\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProject\\NonnyLibrary\\Identity\\NonnyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anthony Ikemefuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -240,20 +253,21 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/api/v2": {},
+          "https://pkgs.dev.azure.com/devnimblebyte/_packaging/devnimblebyte/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\Nonny.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Bulky.DataAccess\\Nonny.DataAccess.csproj"
+              "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\Nonny.DataAccess.csproj": {
+                "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Bulky.DataAccess\\Nonny.DataAccess.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Model\\Nonny.Model.csproj"
+              "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj": {
+                "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Model\\Nonny.Model.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\NonnyLibrary\\Nonny.Utility\\Nonny.Utility.csproj"
+              "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj": {
+                "projectPath": "C:\\MyProject\\NonnyLibrary\\Identity\\Nonny.Utility\\Nonny.Utility.csproj"
               }
             }
           }
@@ -306,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
