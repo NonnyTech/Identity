@@ -10,3 +10,16 @@ C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Utility\obj\Debug\net6.0\Nonny.Uti
 C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Utility\obj\Debug\net6.0\refint\Nonny.Utility.dll
 C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.pdb
 C:\Users\DELL\source\repos\NonnyLibrary\Nonny.Utility\obj\Debug\net6.0\ref\Nonny.Utility.dll
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\bin\Debug\net6.0\Nonny.Utility.deps.json
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\bin\Debug\net6.0\Nonny.Utility.dll
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\bin\Debug\net6.0\Nonny.Utility.pdb
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.csproj.AssemblyReference.cache
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.AssemblyInfoInputs.cache
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.AssemblyInfo.cs
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.csproj.CoreCompileInputs.cache
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.sourcelink.json
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.dll
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\refint\Nonny.Utility.dll
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\Nonny.Utility.pdb
+C:\MyProject\NonnyLibrary\Identity\Nonny.Utility\obj\Debug\net6.0\ref\Nonny.Utility.dll
